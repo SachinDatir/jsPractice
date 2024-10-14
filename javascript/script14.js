@@ -105,3 +105,4 @@ const returnMaximumAndSecondMax = (arr) => {
   console.log(maxNum, secondMaxNum);
 };
 returnMaximumAndSecondMax([-12]);
+
