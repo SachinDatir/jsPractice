@@ -15,6 +15,8 @@ const revWord = (str, index) => {
 };
 revWord("My name is sachin", 2);
 
+
+
 let rr = ["My", "name"];
 console.log(rr.join(""));
 
